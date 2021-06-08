@@ -2,12 +2,6 @@
 
 [![Website](https://img.shields.io/badge/lsc--rp.com-UP-green)](https://lsc-rp.com)
 
-
-## I'm a Developer and paramedic !!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!]!
-- 🌱 I’m currently learning everything 🤣
-
 ### Connect with me:
 
 [<img align="left" alt="lsc-rp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
