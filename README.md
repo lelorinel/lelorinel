@@ -1,6 +1,5 @@
 ### Hi there, I'm Onur - aka [LeLoR][website] 👋
 
-[![Website](https://img.shields.io/badge/lsc--rp.com-UP-green)](https://lsc-rp.com)
 
 ### Connect with me:
 
@@ -10,5 +9,4 @@
 <br />
 
 
-[website]: https://lsc-rp.com
 [instagram]: https://www.instagram.com/lelornial/
